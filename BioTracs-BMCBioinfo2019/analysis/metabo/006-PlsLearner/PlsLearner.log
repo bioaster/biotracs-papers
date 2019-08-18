@@ -1,0 +1,15 @@
+Log file for biotracs.atlas.model.PLSLearner.
+Creation date: 2019-08-18 18:33:58
+
+2019-08-18 18:33:58:	Data size:
+		 X: 30 rows, 46 columns
+		 Y: 30 rows, 5 columns
+2019-08-18 18:33:58:	Warning: leave-one-out is used, the Monte Carlo repetition number is forced to 1
+2019-08-18 18:33:58:	Cross-validation learning with
+		 kfold:	30
+		 mcrep:	1
+		 totalNumTestSets:	30
+		 ncomp:	10 Cross-validation 0% 3% 6% 10% 13% 16% 20% 23% 26% 30% 33% 36% 40% 43% 46% 50% 53% 56% 60% 63% 66% 70% 73% 76% 80% 83% 86% 90% 93% 96% 100% Done
+2019-08-18 18:34:00:	Done (elapsed run time: 00:00:02.211)
+
+Closing date: 2019-08-18 18:34:00

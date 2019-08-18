@@ -1,0 +1,9 @@
+Log file for biotracs.atlas.model.PLSPredictor.
+Creation date: 2019-08-18 18:36:30
+
+2019-08-18 18:36:30:	Nunber of compoenents not provided. Try to determine the optimal number of components to use
+2019-08-18 18:36:30:	Use the cross-validated model
+2019-08-18 18:36:31:	Cross-validation was performed. The optimal number of components to use is 4
+2019-08-18 18:36:31:	Done (elapsed run time: 00:00:00.257)
+
+Closing date: 2019-08-18 18:36:31

@@ -25,9 +25,12 @@ s1 = RandStream.create('mrg32k3a','Seed', 0);
 s0 = RandStream.setGlobalStream(s1);
 
 % Working directory
+% By default, the working directroy refers to the BIOATRACS directory in
+% the user home directory (for windows
+% C:\Users\<user-name>\BIOASTER\BIOTRACS)
 wdir = fullfile( biotracs.core.env.Env.workingDir, 'Taw' );
 
-dataType = 'metabo'; %'iris', 'wdbc' or 'metabo'
+dataType = 'wdbc'; %'iris', 'wdbc' or 'metabo'
 
 if strcmp(dataType, 'iris')
     % --- Fisher's Iris flower dataset

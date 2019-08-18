@@ -1,0 +1,22 @@
+Log file for Taw.
+Creation date: 2019-08-18 18:33:43
+
+2019-08-18 18:33:43:	Running child process DataImporter
+2019-08-18 18:33:43:	Running child process DataParser
+2019-08-18 18:33:44:	Running child process DataFilter
+2019-08-18 18:33:44:	Running child process PcaLearner
+2019-08-18 18:33:45:	Running child process PcaLearnerViewExporter
+2019-08-18 18:33:58:	Running child process PlsLearner
+2019-08-18 18:34:00:	Running child process PlsLearnerViewExporter
+2019-08-18 18:34:02:	Running child process PlsLearnerResultExporter
+2019-08-18 18:34:03:	Running child process PlsPredictor
+2019-08-18 18:34:03:	Running child process PlsPredictorViewExporter
+2019-08-18 18:34:13:	Running child process PlsPredictorResultExporter
+2019-08-18 18:34:13:	Running child process PartialDiffProcess
+2019-08-18 18:34:14:	Running child process PartialDiffMatrixExporter
+2019-08-18 18:34:14:	Running child process DiffProcess
+2019-08-18 18:34:15:	Running child process DiffProcessViewExporter
+2019-08-18 18:34:30:	Running child process DiffTableExporter
+2019-08-18 18:34:31:	Done (elapsed run time: 00:00:47.974)
+
+Closing date: 2019-08-18 18:34:31
